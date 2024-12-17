@@ -5,6 +5,7 @@
 O projeto consiste no desenvolvimento de um vídeo estilo passo a passo para clientes da Caixa com baixa inclusão digital,
 incluindo idosos e pessoas com pouca familiaridade com tecnologia. Foram utilizadas instruções claras e linguagem informal,
 mostrando as imagens do aplicativo no processo de criação de usuário e inserção de conta no aplicativo da Caixa.
+A criação foi totalmente gratuita.
 
 ## 🤖 Tecnologias Utilizadas
 ElevenLabs
@@ -29,7 +30,7 @@ Do início ao fim do projeto utilizei o Gemini, Microsoft Copilot e o Chat GPT p
 com todas as ferramentas envolvidas.
 
 ## 🚀 Resultados
-https://ai.invideo.io/workspace/930e2501-639b-4562-a3de-58f0cc2b0f7e/v30-copilot/eff55b83-ba77-43b7-a301-32e1f4fe9e99
+https://ai.invideo.io/watch/1bLzOyZ7fxV
 
 ## 💭 Reflexão (Opcional)
 Estou fascinada com as possibilidades da IA generativa. 
