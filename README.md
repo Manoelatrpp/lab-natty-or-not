@@ -23,7 +23,8 @@ Gerei e editei o vídeo no CapCut.
 Publiquei no Youtube.
 
 ## 🚀 Resultados
-https://youtube.com/shorts/O_YtmILOCQM?si=37QbhBl-bSzfQbL1
+
+<a href="https://youtube.com/shorts/O_YtmILOCQM?si=37QbhBl-bSzfQbL1/">
 
 ## 💭 Reflexão (Opcional)
 Estou fascinada com as possibilidades da IA generativa. 
