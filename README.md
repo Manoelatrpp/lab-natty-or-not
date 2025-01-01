@@ -24,7 +24,7 @@ Publiquei no Youtube.
 
 ## 🚀 Resultados
 
-[Short Youtube meu canal](https://youtube.com/shorts/O_YtmILOCQM?si=37QbhBl-bSzfQbL1)
+[Youtube meu canal](https://youtube.com/shorts/O_YtmILOCQM?si=37QbhBl-bSzfQbL1/).
 
 ## 💭 Reflexão (Opcional)
 Estou fascinada com as possibilidades da IA generativa. 
